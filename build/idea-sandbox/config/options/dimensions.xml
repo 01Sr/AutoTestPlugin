@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.2880.1800@192dpi" x="1016" y="336" />
+    <location key="new project wizard.0.0.2880.1800@192dpi" x="190" y="46" />
+    <location key="WELCOME_SCREEN.0.0.2880.1800@192dpi" x="1438" y="806" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.2880.1800@192dpi" x="644" y="592" />
+    <location key="#com.intellij.internal.psiView.PsiViewerDialog.0.0.2880.1800@192dpi" x="1280" y="384" />
+    <location key="vcs.ApplyPatchDifferentiatedDialog.0.0.2880.1800@192dpi" x="464" y="456" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2880.1800@192dpi" x="1328" y="542" />
+    <location key="IDE.errors.dialog.0.0.2880.1800@192dpi" x="506" y="394" />
+    <location key="#Project_Structure.0.0.2880.1800@192dpi" x="640" y="256" />
+    <size key="#com.intellij.internal.psiView.PsiViewerDialog.0.0.2880.1800@192dpi" width="1600" height="1416" />
+    <size key="IDE.errors.dialog.0.0.2880.1800@192dpi" width="1648" height="1284" />
+  </component>
+</application>
